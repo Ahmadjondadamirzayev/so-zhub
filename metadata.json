@@ -1,0 +1,8 @@
+{
+  "name": "so'zhub.uz",
+  "description": "Nemischa-O'zbekcha va izohli lug'at, talaffuz (o'qilishi), misol gaplar va tarjimalari, o'quvchilar reytingi hamda admin panelli til platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
